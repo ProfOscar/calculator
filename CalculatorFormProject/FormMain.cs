@@ -60,7 +60,7 @@ namespace CalculatorFormProject
             resultBox.Width = this.Width - 16;
             resultBox.Height = 50;
             resultBox.Top = 20;
-            resultBox.Text = "12345";
+            resultBox.Text = "1234567890";
             this.Controls.Add(resultBox);
         }
 
